@@ -52,7 +52,7 @@ Material design: [Cards](https://www.google.com/design/spec/components/cards.htm
 -->
 
 ```html
-<paper-card image="demo/donuts.png">
+<paper-card image="demo/donuts.png" href="#">
   <div class="card-content">
     <div class="cafe-header">Cafe Basilico
       <div class="cafe-location cafe-light">
